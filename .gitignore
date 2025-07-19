@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# Models and large files
+*.keras
+*.h5
+*.pkl
+*.ckpt
+models/
+logs/
+
+# Streamlit
+.streamlit/
+
+# IDE configs
+.idea/
+.vscode/
+
+# System files
+*.log
+.DS_Store
+Thumbs.db
