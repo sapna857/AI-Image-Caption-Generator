@@ -1,6 +1,7 @@
-streamlit
-tensorflow==2.12.0
-matplotlib
+gradio
+tensorflow
 keras
 numpy
 Pillow
+tqdm
+pickle5
